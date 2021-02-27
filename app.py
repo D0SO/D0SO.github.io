@@ -1,9 +1,5 @@
 import pandas as pd
-import numpy as np
-import sqlalchemy
-from sqlalchemy import create_engine
-from sqlalchemy.orm import Session
-# from password import pw
+
 import json
 
 
